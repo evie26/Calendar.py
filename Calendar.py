@@ -1,4 +1,4 @@
-# Importing calendar module using Python Program
+# Importing 12months calendar module using Python Program
 # The user will input a year
 
 import calendar

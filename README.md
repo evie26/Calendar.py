@@ -1,2 +1,2 @@
 
-# Calendar.py Python Program to print 12 months calendar, using import function.
+# Calendar.py Python Program to print 12 months calendar, using import calendar function.
